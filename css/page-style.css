@@ -1,0 +1,33 @@
+.recipe-header {
+  color: brown;
+  background-color: aqua;
+  font-size: 52px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.description-header,
+.ingredients-header,
+.steps-header {
+  color: bisque;
+  background-color: chocolate;
+  font-size: 32px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p,
+.ul-list,
+.ol-list{
+  color: hsla(276, 88%, 46%, 0.623);
+  font-size: 25px;
+}
+
+
+.ul-list {
+  list-style: square;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.ol-list {
+  list-style-type:lower-roman;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
