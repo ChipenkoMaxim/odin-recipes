@@ -7,3 +7,4 @@ How to write appropriate commits\
 Basic file structure of web-site that contains only images and html files\
 How to create git repo, stage modification and new files, commit staged files, push to remote repo\
 Basics of Bash command prompt cd, mkdir, rm, mv etc...\
+How to create and apply simple css styles
